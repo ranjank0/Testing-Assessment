@@ -1,0 +1,20 @@
+Name - Ranjan Kumar Mandal
+Emp ID - 844209
+---------------------------------------------
+
+
+
+
+1. Carefully read the requirement docs shared to us
+2. We perform requirement analysis for the following:- a. Complete   b. Unamniguou(Clear)s   c. Prioritize       d. Identifiable   e. Traceable
+
+  and apfter performing these 5 steps, we are finding that the requirement for the Name-textbox is incomplete. so we assume the minimum for the name textbox.
+ 
+  We also found the description for the login pasword textbox, description the given to user is giving the more than one meaning.
+
+3. We identified the below black box test design method:
+ 1. DT
+ 2. EP
+ 3. BVA
+
+4. We also edentified the nessecity of test case optimization technique like orthogonal and pairwise and here, we have used the pairwise technique to optizise the test cases.
